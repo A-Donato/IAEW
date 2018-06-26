@@ -1,0 +1,22 @@
+{
+  "name": "apitpi",
+  "version": "1.0.0",
+  "description": "\"API REST TPI IAEW\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "\"TPI\""
+  ],
+  "author": "\"Donato, Lopez, Vicente\"",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "soap": "^0.24.0"
+  }
+}
